@@ -29,4 +29,8 @@ xmlrpc.php
 /profiles
 /scripts
 /themes
+nbproject/*
+authorize.php
+modules/*
+web.config
 
